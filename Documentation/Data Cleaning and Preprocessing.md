@@ -1,5 +1,4 @@
 <div style='text-align:center; color: #00B050'>
-<h1 style='font-size: 16pt'>Author: Madhurima Rawat</h1>
 
 <h2 style='font-size: 14pt'>Data Cleaning and Preprocessing with Pandas</h2>
 
